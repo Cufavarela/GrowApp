@@ -36,3 +36,6 @@
   width: 500px;
   margin: auto;
 }
+.pointer {
+  cursor: pointer;
+}
